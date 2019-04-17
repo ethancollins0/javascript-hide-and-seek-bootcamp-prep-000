@@ -14,5 +14,5 @@ function deepestChild() {
     i++
     test = document.querySelector('#grand-node').childNodes[i]
   }
-  return tes
+  return test
 }
