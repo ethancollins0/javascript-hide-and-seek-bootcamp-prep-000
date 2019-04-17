@@ -11,4 +11,6 @@ function deepestChild() {
     return test[test.length-1]
 }
 
-function increaseRankBy(n)
+function increaseRankBy(n) {
+
+}
