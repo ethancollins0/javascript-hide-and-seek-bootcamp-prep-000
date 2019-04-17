@@ -10,5 +10,6 @@ function deepestChild() {
   var i = 0;
   var test = document.querySelector('#grand-node').querySelectorAll('div')
 
+    }
+  return test[test.length-1]
 }
-return test[test.length-1]
