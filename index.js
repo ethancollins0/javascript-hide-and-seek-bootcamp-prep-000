@@ -11,3 +11,4 @@ function deepestChild() {
   var test = document.querySelector('#grand-node').querySelectorAll('div')
 
 }
+return test[test.length-1]
